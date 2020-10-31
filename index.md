@@ -2,13 +2,13 @@
 
 ## The Team and Game
 
-[Team Members](Team%20Members.md)
+[Team Members](Team_Members.md)
 
-[Game Overview](Game%20Overview.md)
+[Game Overview](Game_Overview.md)
 
 ## Our Robot
 
-[Requiremnets and Functionalities](Requirements%20and%20Functionalities.md)
+[Requiremnets and Functionalities](Requirements_and_Functionalities.md)
 
 ## Daily Reports
 
