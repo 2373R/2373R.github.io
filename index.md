@@ -4,12 +4,6 @@
 
 [Team Members](Team_Members.md)
 
-[Game Overview](Game_Overview.md)
-
-## Our Robot
-
-[Requiremnets and Functionalities](Requirements_and_Functionalities.md)
-
 ## Daily Reports
 
 [10/28/2020 - Drivebase Code](10.28.20.md)
