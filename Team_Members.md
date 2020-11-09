@@ -1,15 +1,19 @@
-## Alexander King
+# Team Members
 
-### Team Leader and Lead Builder
+![](Pictures/10.23.20.jpg)
 
-## Ian Lansdowne
+## Alexander King (right center)
 
-### Programmer
+Team Leader and Lead Builder
 
-## Ryan Lin
+## Ian Lansdowne (left)
 
-### Driver and Builder
+Programmer
 
-## Tab Sommer
+## Ryan Lin (left center)
 
-### Builder
+Driver and Builder
+
+## Tab Sommer (right)
+
+Builder
