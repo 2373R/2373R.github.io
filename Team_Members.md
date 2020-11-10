@@ -17,3 +17,13 @@ Driver and Builder
 ## Tab Sommer (right)
 
 Builder
+
+# Sponsors
+
+## Alex Jordan
+
+aljordan@ccisd.net
+
+## Charlotte Gilbert
+
+cgilbert@ccisd.net
