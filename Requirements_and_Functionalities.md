@@ -1,1 +1,1 @@
-"It's broken and it donesn't have any functionalities." - Alexander King
+"It's broken and it doesn't have any functionalities." - Alexander King
